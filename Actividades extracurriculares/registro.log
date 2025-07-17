@@ -1,0 +1,5 @@
+[94m2025-07-16 21:27:26 | DEBUG | 1192157945.py | mensaje debug[0m
+[92m2025-07-16 21:27:26 | INFO | 1192157945.py | mensaje info[0m
+[93m2025-07-16 21:27:27 | WARNING | 1192157945.py | mensaje advertencia[0m
+[91m2025-07-16 21:27:28 | ERROR | 1192157945.py | mensaje error[0m
+[95m2025-07-16 21:27:28 | CRITICAL | 1192157945.py | mensaje crítico[0m

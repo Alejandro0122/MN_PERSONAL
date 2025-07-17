@@ -1,0 +1,121 @@
+2025-07-15 16:27:07 - __main__ - 957748763.py - <module> - 96 - DEBUG - Este es un mensaje DEBUG (solo aparece en archivo)
+2025-07-15 16:27:07 - __main__ - 957748763.py - <module> - 97 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-15 16:27:07 - __main__ - 957748763.py - <module> - 98 - WARNING - Este es un mensaje WARNING (consola y archivo)
+2025-07-15 16:27:07 - __main__ - 957748763.py - <module> - 99 - ERROR - Este es un mensaje ERROR (consola y archivo)
+2025-07-15 16:27:07 - __main__ - 957748763.py - <module> - 100 - CRITICAL - Este es un mensaje CRITICAL (consola, archivo y Telegram si está configurado)
+2025-07-15 16:27:08 - __main__ - 957748763.py - <module> - 105 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_16768\957748763.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 15:58:50 - __main__ - 957748763.py - <module> - 96 - DEBUG - Este es un mensaje DEBUG (solo aparece en archivo)
+2025-07-16 15:58:50 - __main__ - 957748763.py - <module> - 97 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-16 15:58:50 - __main__ - 957748763.py - <module> - 98 - WARNING - Este es un mensaje WARNING (consola y archivo)
+2025-07-16 15:58:50 - __main__ - 957748763.py - <module> - 99 - ERROR - Este es un mensaje ERROR (consola y archivo)
+2025-07-16 15:58:50 - __main__ - 957748763.py - <module> - 100 - CRITICAL - Este es un mensaje CRITICAL (consola, archivo y Telegram si está configurado)
+2025-07-16 15:58:51 - __main__ - 957748763.py - <module> - 105 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\957748763.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 93 - DEBUG - Este es un mensaje DEBUG (solo aparece en archivo)
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 93 - DEBUG - Este es un mensaje DEBUG (solo aparece en archivo)
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 94 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 94 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 95 - WARNING - Este es un mensaje WARNING (consola y archivo)
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 95 - WARNING - Este es un mensaje WARNING (consola y archivo)
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 96 - ERROR - Este es un mensaje ERROR (consola y archivo)
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 96 - ERROR - Este es un mensaje ERROR (consola y archivo)
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 97 - CRITICAL - Este es un mensaje CRITICAL (consola, archivo y Telegram si está configurado)
+2025-07-16 21:22:08 - __main__ - 2902019460.py - <module> - 97 - CRITICAL - Este es un mensaje CRITICAL (consola, archivo y Telegram si está configurado)
+2025-07-16 21:22:09 - __main__ - 2902019460.py - <module> - 102 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\2902019460.py", line 100, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 21:22:09 - __main__ - 2902019460.py - <module> - 102 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\2902019460.py", line 100, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 96 - DEBUG - Este es un mensaje DEBUG (solo aparece en archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 96 - DEBUG - Este es un mensaje DEBUG (solo aparece en archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 96 - DEBUG - Este es un mensaje DEBUG (solo aparece en archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 97 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 97 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 97 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 98 - WARNING - Este es un mensaje WARNING (consola y archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 98 - WARNING - Este es un mensaje WARNING (consola y archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 98 - WARNING - Este es un mensaje WARNING (consola y archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 99 - ERROR - Este es un mensaje ERROR (consola y archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 99 - ERROR - Este es un mensaje ERROR (consola y archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 99 - ERROR - Este es un mensaje ERROR (consola y archivo)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 100 - CRITICAL - Este es un mensaje CRITICAL (consola, archivo y Telegram si está configurado)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 100 - CRITICAL - Este es un mensaje CRITICAL (consola, archivo y Telegram si está configurado)
+2025-07-16 21:22:31 - __main__ - 957748763.py - <module> - 100 - CRITICAL - Este es un mensaje CRITICAL (consola, archivo y Telegram si está configurado)
+2025-07-16 21:22:33 - __main__ - 957748763.py - <module> - 105 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\957748763.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 21:22:33 - __main__ - 957748763.py - <module> - 105 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\957748763.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 21:22:33 - __main__ - 957748763.py - <module> - 105 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\957748763.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 87 - DEBUG - Este es un mensaje DEBUG
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 87 - DEBUG - Este es un mensaje DEBUG
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 87 - DEBUG - Este es un mensaje DEBUG
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 87 - DEBUG - Este es un mensaje DEBUG
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 88 - INFO - Este es un mensaje INFO
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 88 - INFO - Este es un mensaje INFO
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 88 - INFO - Este es un mensaje INFO
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 88 - INFO - Este es un mensaje INFO
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 89 - WARNING - Este es un mensaje WARNING
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 89 - WARNING - Este es un mensaje WARNING
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 89 - WARNING - Este es un mensaje WARNING
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 89 - WARNING - Este es un mensaje WARNING
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 90 - ERROR - Este es un mensaje ERROR
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 90 - ERROR - Este es un mensaje ERROR
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 90 - ERROR - Este es un mensaje ERROR
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 90 - ERROR - Este es un mensaje ERROR
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 91 - CRITICAL - Este es un mensaje CRITICAL
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 91 - CRITICAL - Este es un mensaje CRITICAL
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 91 - CRITICAL - Este es un mensaje CRITICAL
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 91 - CRITICAL - Este es un mensaje CRITICAL
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 96 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\2995525479.py", line 94, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 96 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\2995525479.py", line 94, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 96 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\2995525479.py", line 94, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-16 21:25:44 - __main__ - 2995525479.py - <module> - 96 - ERROR - Ocurrió una excepción: 
+Traceback (most recent call last):
+  File "C:\Users\CORE I5\AppData\Local\Temp\ipykernel_9812\2995525479.py", line 94, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
